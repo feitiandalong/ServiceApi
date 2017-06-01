@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/feitiandalong/ServiceApi/master/controlSystem.ipa</string>
+					<string>https://github.com/feitiandalong/ServiceApi/blob/master/controlSystem.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.baidu.com/baidu.php?url=fjfK000mpKPNALCw0nADKolTUkyailL3R86ivXpBPChY7J3wCAHp2XrqDZuFwjYVbG5M0lVqJFahSaUTLmoA2KMGepNLFR3OMnYg715er_nHTaVNcQb79bSfaQgUNZjc_71UaT-UKKjBuYVmc1HT3KAXzlZsuLECQxsuFnCbjRqrdo56sf.7D_iRFhmxFS-hUlDYgmcSijl232D1n5pOP0MCetoPdj-Wkly2O2EzotEZ_errzzEze5ZGlU2OAzEkLIXNhl9zs8BCFBCnm3XE21If4prPBJ9fk3X5Vs45o9zxg63rjz_o_oWJIWw9zxNiOi1JHukyAp7WWgYtX-f.U1Yz0ZDq1J2S3nMWYe00IjLcztOkkTHF3eztktb0pyYqn1mL0ATqXZ6k0ZNG5fKspyfqn6KWpyfqPj0d0AdY5Hcsrjb0pvbqn0KzIjYvnjR0uy-b5HDkrjb4g1Dkrjmdg1DznjDs0AFG5H00Uynqn0KkTA-b5H00TyPGujYs0ZFMIA7M5H00ULu_5HDsnWDkQywlg1Dknjn3QHDzn1fdPW7xnHDYrj6VuZGxnHcznW6VuZC0Uy-b5H00pg7Y5H00mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uMfqn0KspjYs0Aq15H00mMTqn0K8IjYs0ZPl5fKzug7Y5HDYrHmzrj0Yn1f4njn0Tv-b5ynsrHFWmhwhryu9uhwbnHm0mynqnfKlIjYs0AdWgvuzUvYqn0KWThnqn16vn1c&amp;ck=6226.1.9999.443.183.483.135.362</string>
+					<string>https://github.com/feitiandalong/ServiceApi/blob/master/40%402x-1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.baidu.com/baidu.php?url=fjfK000mpKPNALCw0nADKolTUkyailL3R86ivXpBPChY7J3wCAHp2XrqDZuFwjYVbG5M0lVqJFahSaUTLmoA2KMGepNLFR3OMnYg715er_nHTaVNcQb79bSfaQgUNZjc_71UaT-UKKjBuYVmc1HT3KAXzlZsuLECQxsuFnCbjRqrdo56sf.7D_iRFhmxFS-hUlDYgmcSijl232D1n5pOP0MCetoPdj-Wkly2O2EzotEZ_errzzEze5ZGlU2OAzEkLIXNhl9zs8BCFBCnm3XE21If4prPBJ9fk3X5Vs45o9zxg63rjz_o_oWJIWw9zxNiOi1JHukyAp7WWgYtX-f.U1Yz0ZDq1J2S3nMWYe00IjLcztOkkTHF3eztktb0pyYqn1mL0ATqXZ6k0ZNG5fKspyfqn6KWpyfqPj0d0AdY5Hcsrjb0pvbqn0KzIjYvnjR0uy-b5HDkrjb4g1Dkrjmdg1DznjDs0AFG5H00Uynqn0KkTA-b5H00TyPGujYs0ZFMIA7M5H00ULu_5HDsnWDkQywlg1Dknjn3QHDzn1fdPW7xnHDYrj6VuZGxnHcznW6VuZC0Uy-b5H00pg7Y5H00mycqn7ts0ANzu1Ys0ZKs5H00UMus5H08nj0snj0snj00Ugws5H00uAwETjYs0ZFJ5H00uMfqn0KspjYs0Aq15H00mMTqn0K8IjYs0ZPl5fKzug7Y5HDYrHmzrj0Yn1f4njn0Tv-b5ynsrHFWmhwhryu9uhwbnHm0mynqnfKlIjYs0AdWgvuzUvYqn0KWThnqn16vn1c&amp;ck=6226.1.9999.443.183.483.135.362</string>
+					<string>https://github.com/feitiandalong/ServiceApi/blob/master/40%402x-1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>掌控系统</string>
+				<string>controlSystem</string>
 			</dict>
 		</dict>
 	</array>
