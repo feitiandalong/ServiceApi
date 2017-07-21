@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://safety123-1254023967.cossh.myqcloud.com/safetyWarning1.0/SafetyWarning.ipa</string>
+					<string>http://10.188.186.226:8080/SEWS/uploadFiles/file/20170721/SafetyWarning.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://safety123-1254023967.cossh.myqcloud.com/safetyWarning1.0/40%402x.png</string>
+					<string>http://10.188.186.226:8080/SEWS/uploadFiles/file/20170721/40@2x.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>预测预警</string>
+				<string>宁波汇众安全预测预警系统</string>
 			</dict>
 		</dict>
 	</array>
